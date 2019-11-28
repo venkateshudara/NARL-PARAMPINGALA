@@ -6,7 +6,7 @@ The CPU only Compute Nodes are based on Intel FC2HAC16W3 with S9248WK2HAC Comput
 Number of Systems – 98x Intel FC2HAC16W3 with S9248WK2HAC Compute Module (196 Nodes)- Configuration of each Node - 
 ➢ Dual Intel® Xeon® Platinum 9242 Processor (48C, 2.3G) 
 ➢ 768GB using 24 x 32GB modules of DDR4-2933 ECC RDIMM 
-➢ 1x Intel® Omni-Path Host Fabric Interface Adapter 100 Series 
+➢ 1x Intel® Omni-Path Host Fabric Interface Adapter 100 Series  
 ➢ Remote Management Module for Out of Band Management
 
 Master Nodes
