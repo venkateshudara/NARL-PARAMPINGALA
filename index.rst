@@ -1,4 +1,4 @@
-NARL PARAMPINGALA - HPC Specifications
+                         NARL PARAMPINGALA - HPC Specifications
 
 Compute Nodes
 The CPU only Compute Nodes are based on Intel FC2HAC16W3 with S9248WK2HAC Compute Module (2U modular system with 2 independent hot-plug nodes inside which share only the enclosure and the power supplies (therefore 1 unit of Intel FC2HAC16W3 with S9248WK2HAC will provide 2 nodes) -
