@@ -1,0 +1,14 @@
+Design Consideration 
+Electrical Load for IT equipment 
+Electrical Load of IT Equipment for HPC racks: 287 kW. 
+ 
+ Electrical System  LV Switchboard: Complying to IS / IEC Standards. 
+ 
+ Cooling Load Heat Load for Water Cooled Chiller Total IT load considered —287 kW Total Cooling Load on Water cooled Chiller -  327.8 kW 
+ 
+Cooling System  Water -cooled Chiller Water Inlet: 190C   Water-cooled Chiller Water Outlet: 130C  Storage / Service Nodes : Supply air to rack inlet at 230C 
+ 
+Fire and Safety System Addressable Fire Alarm System is considered for Server Room & New UPS Battery Room. NOVEC 1230 based Fire Suppression System for Server Room & New UPS Battery Room. Early Smoke Detection System for Server Room & New UPS Battery Room.  Rodent Repellant System for Server Room & New UPS Battery Room. Water Leakage Detection System for Server Room & New UPS Battery Room. 
+ 
+  Monitoring and Control System Temperature Monitoring System Building Management System 
+ Civil Work  Raised floor and false ceiling modification for server room, PCC Foundation for HVAC Equipment’s, modification of Construction of HVAC Plant room. 
